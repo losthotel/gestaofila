@@ -8,17 +8,17 @@ O objetivo deste projeto é o desenvolvimento de um Sistema de Gestão de Filas,
 Desenvolver um software de gestão de filas que permita o controle eficiente do tempo de espera dos usuários, garantindo uma experiência mais organizada e fluída, além de possibilitar a comunicação eficaz com os usuários e administradores.
 
 > ### 1.2. Específicos
-Gerenciamento em tempo real;
-Notificação e comunicação;
-Fácil de administrar; e
+Gerenciamento em tempo real; <br>
+Notificação e comunicação; <br>
+Fácil de administrar; e <br>
 Escabilidade.
-
+</br>
 > ## 1.3. Escopo do Projeto
 > ### 1.3 Funcionalidades
-Gerir filas em tempo real;
-Sistema de notificações; 
-Interface administrativa; e
+Gerir filas em tempo real; <br>
+Sistema de notificações; <br>
+Interface administrativa; e <br>
 Relatórios.
-
+</br>
 > ### 1.4. Atualizações no repositório
 Em desenvolvimento.
