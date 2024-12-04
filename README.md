@@ -13,12 +13,12 @@ Notificação e comunicação;
 Fácil de administrar; e
 Escabilidade.
 
-> ### 1.3. Escopo do Projeto
+> ## 1.3. Escopo do Projeto
 > ### 1.3 Funcionalidades
 Gerir filas em tempo real;
 Sistema de notificações; 
 Interface administrativa; e
 Relatórios.
 
-> ### 1.3. Atualizações no repositório
+> ### 1.4. Atualizações no repositório
 Em desenvolvimento.
